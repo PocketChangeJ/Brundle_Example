@@ -168,6 +168,6 @@ data(jg.experimentResultsDeseq,package="Brundle")
 jg.plotDeSeqCombined(jg.controlResultsDeseq,
                      jg.experimentResultsDeseq,
                      title.main="ER and CTCF Binding Folding changes on ER treatment",
-                     p=0.01,flip=TRUE)
+                     p=0.01, flip=TRUE)
 ## End of Example for jg.plotDeSeqCombined
 
