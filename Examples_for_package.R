@@ -1,18 +1,41 @@
 #Author: Andrew Holding
 
-library(Brundle)
+# The packages are found on GitHub as AndrewHolding/Brundle &
+# AndrewHolding/BrundleData. They can be installed with
+#
+#install.packages("devtools")
+#library(devtools)
+#
+#install_github("AndrewHolding/packagename")
+#
+#This script was used to generate the data for the examples in the Brundle man
+#pages.
+#
+#save() points have been commented out to avoid writing unnecessary writing of
+#files. Data() is loaded as in the example manpages but is not needed if script
+#is run in order.
+#
+#The markdown in this directory will be move useful for most people.
 
-#Set for you installed location
-setwd("/Volumes/Flypeaks/Brundle/Brundle_Example")
+library(Brundle)
+library(BrundleData)
+
+#Set for you installed location of BrundleData
+setwd(system.file("extdata",package="BrundleData"))
 
 ### Examples for analysis using Diffbind and linear fit
 
 #Set up the intial settings as normal
 jg.controlMinOverlap      <- 5
-jg.controlSampleSheet     <- "inst/extdata/samplesheet_SLX14438_hs_CTCF_DBA.csv"
-jg.experimentSampleSheet  <- "inst/extdata/samplesheet_SLX14438_hs_ER_DBA.csv"
+jg.controlSampleSheet     <-
+    system.file("extdata", "samplesheet_SLX14438_hs_CTCF_DBA.csv", package =
+                    "Brundle")
+jg.experimentSampleSheet  <-
+    system.file("extdata", "samplesheet_SLX14438_hs_ER_DBA.csv", package =
+                    "Brundle")
 jg.treatedCondition       =  "Fulvestrant"
 jg.untreatedCondition     =  "none"
+
 
 
 #Load the data from the BAM files. These are only chr22 to reduce size. Still to
@@ -21,7 +44,7 @@ dbaExperiment <- jg.getDba(jg.experimentSampleSheet, bRemoveDuplicates=TRUE)
 dbaControl    <- jg.getDba(jg.controlSampleSheet, bRemoveDuplicates=TRUE)
 
 #Save the data for the examples in the package
-save(dbaExperiment, file="data/dbaExperiment.rda")
+#save(dbaExperiment, file="data/dbaExperiment.rda")
 
 #Convert the DBA into a peakset we can manipulate
 
@@ -32,7 +55,7 @@ jg.experimentPeakset <- jg.dbaGetPeakset(dbaExperiment)
 
 #Repeat for the control samples/peaks & save for examples in package
 jg.controlPeakset    <- jg.dbaGetPeakset(dbaControl)
-save(jg.controlPeakset, file="data/jg.controlPeakset.rda")
+#save(jg.controlPeakset, file="data/jg.controlPeakset.rda")
 
 #Extract a maxtix of counts in peaks for each rep of a specific condition.
 #Note in this example we specify the condition, but we could use the varible
@@ -57,8 +80,8 @@ jg.untreatedNames <- names(jg.controlCountsUntreated)
 jg.treatedNames   <- names(jg.controlCountsTreated)
 
 #Save data for examples in package
-save(jg.controlCountsTreated, file="data/jg.controlCountsTreated.rda")
-save(jg.controlCountsUntreated, file="data/jg.controlCountsUntreated.rda")
+#save(jg.controlCountsTreated, file="data/jg.controlCountsTreated.rda")
+#save(jg.controlCountsUntreated, file="data/jg.controlCountsUntreated.rda")
 
 #Plot of the normalisation, for visualisation only, not necessary for analysis.
 ### Example for jg.plotNormalization
@@ -84,7 +107,7 @@ jg.correctionFactor<-jg.getCorrectionFactor(jg.experimentSampleSheet,
                                             jg.untreatedNames)
 
 #Save data for examples in package
-save(jg.experimentPeakset, file="data/jg.experimentPeakset.rda")
+#save(jg.experimentPeakset, file="data/jg.experimentPeakset.rda")
 
 
 #Apply the normalisation to the experimental peakset.
@@ -104,7 +127,7 @@ jg.dba <- DiffBind:::pv.resetCounts(dbaExperiment,
                                     jg.experimentPeaksetNormalised)
 
 #Plot the results of Chr22
-dba.plotMA(dba.analyze(jg.dba),bSmooth=FALSE)
+dba.plotMA(dba.analyze(jg.dba),bSmooth=FALSE,bFlip = TRUE)
 
 ### End of DiffBind analysis
 
@@ -121,13 +144,12 @@ jg.experimentPeaksetDeSeq<-jg.convertPeakset(jg.experimentPeakset)
 jg.controlPeakset    <- jg.dbaGetPeakset(dbaControl)
 jg.controlPeaksetDeSeq<-jg.convertPeakset(jg.controlPeakset)
 
-save(jg.controlPeaksetDeSeq,file="data/jg.controlPeaksetDeSeq.rda")
+#save(jg.controlPeaksetDeSeq,file="data/jg.controlPeaksetDeSeq.rda")
 
 
 #Get conditions dataframe for DeSeq2
 jg.conditions <- read.csv(file=jg.controlSampleSheet, header=TRUE, sep=",")['Condition']
-save(jg.conditions,file="data/jg.conditions.rda")
-
+#save(jg.conditions,file="data/jg.conditions.rda")
 
 # Run DeSeq on control
 ## Example of jg.runDeSeq
@@ -146,8 +168,8 @@ jg.experimentDeSeq<-jg.runDeSeq(jg.experimentPeaksetDeSeq, jg.conditions,jg.cont
 jg.experimentResultsDeseq   = results(jg.experimentDeSeq)
 
 #Save results for example plots
-save(jg.experimentResultsDeseq,file="data/jg.experimentResultsDeseq.rda")
-save(jg.controlResultsDeseq,file="data/jg.controlResultsDeseq.rda")
+#save(jg.experimentResultsDeseq,file="data/jg.experimentResultsDeseq.rda")
+#save(jg.controlResultsDeseq,file="data/jg.controlResultsDeseq.rda")
 
 
 ## Example of jg.plotDeSeq
