@@ -12,8 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Brundle Examples
 
-This markdown provides an example of a workflow using Brundle applied to a minmal 
-dataset as included in the BrudleData package. 
+This markdown provides an example of a workflow using Brundle applied to a minimal 
+dataset as included in the BrundleData package. 
 
 The packages are found on GitHub as AndrewHolding/Brundle & 
 AndrewHolding/BrundleData. They can be installed with the following code.
@@ -27,7 +27,7 @@ install_github("AndrewHolding/packagename")
 
 ```
 
-Once installed we do not need to install them again and can load them as normal.
+Once installed, we do not need to install them again and can load them as normal.
 
 ```{r, message=FALSE, warning=FALSE}
 library(Brundle)
@@ -35,17 +35,17 @@ library(BrundleData)
 
 ```
 
-The intial steps of the Brundle Pipleline are to set the varibles. Here we are
-using the data from the BundleData package which contains two samplesheets 
+The initial steps of the Brundle Pipeline are to set the variables. Here we are
+using the data from the BrundleData package which contains two sample sheets 
 formatted as required by DiffBind. They both refer to the same data, but one
-provides BED files for only the CTCF peaks while the provides BED files for only
+provides BED files for the CTCF peaks only while the other provides BED files for only
 the ER regions. The CTCF regions are to provide our control peaks, while the ER
-binding provides our experimental peaks changes. In this example we have treated
+binding provides our experimental peak changes. In this example, we have treated
 MCF7 cells with Fulvestrant.
 
 ```{r}
 
-#Set up the intial varible
+#Set up the initial varible
 jg.controlMinOverlap      <- 5
 jg.controlSampleSheet     <-
     system.file("extdata", "samplesheet_SLX14438_hs_CTCF_DBA.csv", package =
@@ -59,8 +59,8 @@ jg.untreatedCondition     =  "none"
 ```
 
 Once configured we load the data from the samples sheets as normal with
-DiffBind. This provides us with two DiffBind objects. One Experimental and one
-Control.
+DiffBind. This provides us with two DiffBind objects: one experimental and one
+control.
 
 ```{r}
 
@@ -80,9 +80,9 @@ jg.experimentPeakset <- jg.dbaGetPeakset(dbaExperiment)
 jg.controlPeakset    <- jg.dbaGetPeakset(dbaControl)
 ```
 
-To normalise the data we need to counts of the control and treated samples
-seperately. This uses the original information we provided at the start of the
-script to split the control samples into two matrices. For convience we also 
+To normalise the data, we need to count the control and treated samples
+separately. This uses the original information we provided at the start of the
+script to split the control samples into two matrices. For convenience, we also 
 record the names of the samples relating to each condition.
 
 ```{r}
@@ -104,21 +104,21 @@ jg.treatedNames   <- names(jg.controlCountsTreated)
 ```
 
 Next we generate a normalization coefficient from the data. Typically this is
-visualized with the included plot function but the step is not required, it can
+visualised with the included plot function but the step is not required; it can
 be calculated directly from the data.
 
 ```{r}
 jg.plotNormalization(jg.controlCountsTreated,
                      jg.controlCountsUntreated)
 
-#Calculate the noralisation coefficent
+#Calculate the normalisation coefficent
 jg.coefficient<-jg.getNormalizationCoefficient(jg.controlCountsTreated,
                                                jg.controlCountsUntreated)
 ```
 
-To reinsert the data into DiffBind we calculate a correction factor. This is
+To reinsert the data into DiffBind, we calculate a correction factor. This is
 essential as DiffBind will try to normalise our data, this correction factor 
-ensures that our normalization coefficent is applied correctly.
+ensures that our normalisation coefficent is applied correctly.
 
 ```{r}
 
@@ -139,11 +139,11 @@ jg.experimentPeaksetNormalised<-jg.applyNormalisation(jg.experimentPeakset,
                                                       jg.treatedNames)
 ```
 
-For convience the we return the data to DiffBind (using a modified version from
+For convience we return the data to DiffBind (using a modified version from
 https://github.com/andrewholding/flypeaks/tree/master/Diffbind) and use DiffBind 
-to analyze the data. We could then go on to generate a DiffBind report. As this 
-is the analysis of only chromosome 22 we get only a small number of 
-differentially bound sites, nonetheless, the proceedure documented here will 
+to analyse the data. We could then go on to generate a DiffBind report. As this 
+is the analysis of chromosome 22 only, we get only a small number of 
+differentially bound sites; nonetheless, the proceedure documented here will 
 work for much larger datasets.
 
 ```{r}
