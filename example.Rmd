@@ -23,11 +23,26 @@ AndrewHolding/BrundleData. They can be installed with the following code.
 install.packages("devtools")
 library(devtools)
 
-install_github("AndrewHolding/packagename")
+install_github("AndrewHolding/Brundle")
+install_github("AndrewHolding/BrundleDate")
 
 ```
 
-Once installed, we do not need to install them again and can load them as normal.
+To run this example you will also need to download and install the modified
+version of DiffBind included with the manuscript.
+
+```{r eval=FALSE}
+
+URL <- "https://raw.githubusercontent.com/andrewholding/flypeaks/master/Diffbind/DiffBind_2.5.6.tar.gz"
+download.file(URL, destfile = "./DiffBind_2.5.6.tar.gz", method="curl")
+install.packages("DiffBind_2.5.6.tar.gz", repos = NULL, type="source")
+ 
+```
+
+
+
+Once installed, we do not need to install them again and can load them as
+normal. The Brundle package will load DiffBind automatically.
 
 ```{r, message=FALSE, warning=FALSE}
 library(Brundle)
