@@ -50,11 +50,15 @@ library(BrundleData)
 
 ```
 
+
 The initial steps of the Brundle Pipeline are to set the variables. Here we are
 using the data from the BrundleData package which contains two sample sheets 
-formatted as required by DiffBind. They both refer to the same data, but one
-provides BED files for the CTCF peaks only while the other provides BED files for only
-the ER regions. The CTCF regions are to provide our control peaks, while the ER
+formatted as required by DiffBind. They both refer to the same data (BAM files), 
+but one provides BED files for the CTCF peaks only while the other provides BED 
+files for only the ER regions. These were generated with the script in the
+appendix at the end of the mark down. 
+
+The CTCF regions are to provide our control peaks, while the ER
 binding provides our experimental peak changes. In this example, we have treated
 MCF7 cells with Fulvestrant.
 
@@ -169,3 +173,50 @@ dba.analysis<-dba.analyze(jg.dba)
 dba.plotMA(dba.analysis,bSmooth=FALSE,bFlip = TRUE)
 ```
 
+## Appendix
+
+Peaks were called for each BAM file as normal using macs2 then seperated in ER
+and CTCF peaks using the following script.
+
+```{bash, eval=FALSE}
+
+#This script was run in a directory containing the output 
+#from macs2 (ie. peak files) for all of BAM files.
+
+#Merge the peaks called by macs2 on the aligned reads for two
+#CTCF ChIP-seq experiments. One is untreated and one is treated 
+#with fulvestrant.
+
+cat  SLX-14438.D701_D504.HKN27BBXX.s_8.r_1.fq.gz.bam_peaks.xls    \
+   SLX-14438.D702_D503.HKN27BBXX.s_8.r_1.fq.gz.bam_peaks.xls > CTCF_merged.bed
+    
+#Remove comments from start of macs2 peak file because we have two copies.
+#One from each of the merged files.
+grep -v \# CTCF_merged.bed  | grep -v start > CTCF_merged_filtered.bed
+
+#Sort the bed
+sort -k1,1 -k2,2n CTCF_merged_filtered.bed > CTCF_merged_sorted_filtered.bed
+
+#Make a union of any overlapping peak. This removes duplicates from peaks
+#called in both experiemnts.
+bedtools merge -i CTCF_merged_sorted_filtered.bed  >CTCF_union.bed
+
+#Now we have a CTCF set of concensus peaks from our two experiements 
+#we use them to filter our peak files for each of the other samples.
+
+mkdir CTCF
+
+for f in *.narrowPeak
+do
+	echo $f
+	bedtools intersect -a $f -b CTCF_union.bed  > CTCF/$f 
+done
+
+mkdir ER
+for f in *.narrowPeak
+do
+	echo $f
+	bedtools subtract -b CTCF_union.bed -a $f -A > ER/$f 
+done
+
+```
