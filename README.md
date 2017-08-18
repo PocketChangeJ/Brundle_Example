@@ -1,15 +1,14 @@
 # Brundle_Example
 
-Two workflows that processes a reduced dataset using Brundle based on only
-chromosome 22. This is to keep the all the genomic data small enough to remain 
-inside GitHub's file size limit.
+Two example workflows that process datasets using Brundle.
 
-ctcfExample.Rmd shows provides complete workflow using same data and was 
-generated using a CTCF based control.
+*ctcfExample.Rmd* provides a complete workflow using data that was 
+generated with an internal CTCF based control.
 
-dmExample.Rmd shows a similar workflow for data using a spike-in control.
+*dmExample.Rmd* shows a similar workflow for data with a spike-in control.
 
-Preprocessing example with sample data can be found in the preprocessing folder.
+*Preprocessing* contains examples of how to preprocess the samples. This includes
+the pipleline to align reads to two genomes and sample raw datain FastQ format.
 
 Brundle can be found at https://github.com/andrewholding/Brundle
 
