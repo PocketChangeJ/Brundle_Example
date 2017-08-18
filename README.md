@@ -7,7 +7,10 @@ inside GitHub's file size limit.
 Examples_for_package.R was used to provide the R data files (.rda) for the
 man page examples in the Brundle package.
 
-example.Rmd shows provides complete workflow using the same data.
+ctcfExample.Rmd shows provides complete workflow using same data and was generated using a CTCF based control.
 
+dmExample.Rmd shows a similar workflow for data using a spike-in control.
+
+Preprocessing example with sample data can be found in the preprocessing folder.
 
 Brundle can be found at https://github.com/andrewholding/Brundle
