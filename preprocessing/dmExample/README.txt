@@ -1,5 +1,3 @@
-#Author: Andrew Holding
-
 In this directory are all the scripts needed to download, generate and align to a 
 merged genome. 
 
