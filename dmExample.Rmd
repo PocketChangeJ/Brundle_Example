@@ -174,5 +174,5 @@ jg.dba <- DiffBind:::pv.resetCounts(dbaExperiment,
                                     jg.experimentPeaksetNormalised)
 
 dba.analysis<-dba.analyze(jg.dba)
-dba.plotMA(dba.analysis,bSmooth=FALSE,bFlip = TRUE)
+dba.plotMA(dba.analysis,bSmooth=FALSE)
 ```
