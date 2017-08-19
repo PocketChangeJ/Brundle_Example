@@ -8,7 +8,8 @@ generated with an internal CTCF based control.
 **dmExample.Rmd** shows a similar workflow for data with a spike-in control.
 
 **Preprocessing** contains examples of how to preprocess the samples. This includes
-the pipleline to align reads to two genomes and sample raw datain FastQ format.
+the pipleline to align reads a merged human-drosophila genome and sample raw data in
+FastQ format.
 
 Brundle can be found at https://github.com/andrewholding/Brundle
 
