@@ -9,7 +9,7 @@ generated with an internal CTCF based control.
 
 **Preprocessing** contains examples of how to preprocess the samples. This includes
 the pipleline to align reads a merged human-drosophila genome. Both examples
-include sample input data to test the pipeline.
+include sample input data to test the preprocessing.
 
 Brundle can be found at https://github.com/andrewholding/Brundle
 
