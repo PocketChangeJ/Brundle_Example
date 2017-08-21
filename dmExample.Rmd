@@ -34,7 +34,7 @@ version of DiffBind included with the manuscript.
 ```{r eval=FALSE}
 
 URL <- paste0("https://raw.githubusercontent.com/",
-                "andrewholding/flypeaks/master/Diffbind/DiffBind_2.5.6.tar.gz")
+      "andrewholding/BrundleDevelopment/master/Diffbind/DiffBind_2.5.6.tar.gz")
 download.file(URL, destfile = "./DiffBind_2.5.6.tar.gz", method="curl")
 install.packages("DiffBind_2.5.6.tar.gz", repos = NULL, type="source")
  

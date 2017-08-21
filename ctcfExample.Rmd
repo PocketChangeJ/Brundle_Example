@@ -34,7 +34,7 @@ version of DiffBind included with the manuscript.
 ```{r eval=FALSE}
 
 URL <- paste0("https://raw.githubusercontent.com/",
-            "andrewholding/flypeaks/master/Diffbind/DiffBind_2.5.6.tar.gz")
+     "andrewholding/BrundleDevelopment/master/Diffbind/DiffBind_2.5.6.tar.gz")
 download.file(URL, destfile = "./DiffBind_2.5.6.tar.gz", method="curl")
 install.packages("DiffBind_2.5.6.tar.gz", repos = NULL, type="source")
  
@@ -164,7 +164,7 @@ jg.experimentPeaksetNormalised<-jg.applyNormalisation(jg.experimentPeakset,
 ```
 
 For convience we return the data to DiffBind (using a modified version from
-https://github.com/andrewholding/flypeaks/tree/master/Diffbind) and use DiffBind 
+https://github.com/andrewholding/BrundleDevelopment/tree/master/Diffbind) and use DiffBind 
 to analyse the data. We could then go on to generate a DiffBind report. As this 
 is the analysis of chromosome 22 only, we get only a small number of 
 differentially bound sites; nonetheless, the proceedure documented here will 
