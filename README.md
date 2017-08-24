@@ -1,9 +1,9 @@
 # Brundle_Example
 
 This hub comtains two example workflows to demonstrated how to normalise ChIP-seq data using the [Brundle R-package](https://github.com/andrewholding/Brundle). Before trying these examples you should first familiarise yourself with [DiffBind](https://bioconductor.org/packages/release/bioc/html/DiffBind.html)
-and it's own examples as it form the basis of the analysis.
+and it's own examples as it forms the basis of the analysis.
 
-These examples are also avalible in as a Docker container from [Brundle on Docker Hub](https://hub.docker.com/r/andrewholding/brundle/) , the container contains all the packages preinstalled and he tools needed for the preprocessing workflow. Instruction for [running the container are below](https://github.com/andrewholding/Brundle_Example/blob/master/README.md#using-docker-container).
+The following examples are also avalible in as a Docker container from [Brundle on Docker Hub](https://hub.docker.com/r/andrewholding/brundle/), the container contains all the packages preinstalled and with all the tools needed for the preprocessing workflow. Instruction for [running the container are below](https://github.com/andrewholding/Brundle_Example/blob/master/README.md#using-docker-container).
 
 ## Contents
 
@@ -41,7 +41,7 @@ First install “Docker Toolbox” [https://www.docker.com/products/docker-toolb
 
 The docker container also contains all the tools needed to run the pre-processing. When you started the container you should also get container id (not shown). Using the following command will provide an interactive terminal.
 
->docker exec -it <container> bash
+`docker exec -it <container> bash`
 
 The scripts you need are in “~/preprocessing”.
 
