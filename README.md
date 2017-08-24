@@ -7,12 +7,12 @@ The following examples are also avalible in as a Docker container from [Brundle 
 
 ## Contents
 
-**ctcfExample.Rmd** provides a complete workflow using data that was 
+**[ctcfExample.Rmd](https://github.com/andrewholding/Brundle_Example/blob/master/ctcfExample.Rmd?raw=true)** provides a complete workflow using data that was 
 generated with an internal CTCF based control. (Bright pink on figure).
 
 ![CTCF Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_ctcf.svg?raw=true)
 
-**dmExample.Rmd** shows a similar workflow for data with a spike-in control. (Light blue on figure).
+**[dmExample.Rmd](https://github.com/andrewholding/Brundle_Example/blob/master/dmExample.Rmd?raw=true)** shows a similar workflow for data with a spike-in control. (Light blue on figure).
 
 
 ![Dm Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_dm.svg?raw=true)
