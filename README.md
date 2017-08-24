@@ -28,7 +28,7 @@ man page examples in the Brundle package.
 ## Using Docker Container
 
 Docker provides a reproducible way of executing the same code. In the container for Brundle are all the packages
-and tools needed to run the pipleline are pre-installed. To run the container follow the following instructions:
+and tools needed to run the pipleline are pre-installed. Below is a quick summary on how to run the container.
 
 First install “Docker Toolbox” [https://www.docker.com/products/docker-toolbox], then run the “Docker Quickstart Terminal”.
 
