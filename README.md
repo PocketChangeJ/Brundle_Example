@@ -5,12 +5,12 @@ Two example workflows that process datasets using Brundle.
 **ctcfExample.Rmd** provides a complete workflow using data that was 
 generated with an internal CTCF based control. (Bright pink on figure).
 
-![CTCF Workflow](/images/brundle_workflow_ctcf.png?raw=true =800x)
+![CTCF Workflow](/images/brundle_workflow_ctcf.png?raw=true)
 
 **dmExample.Rmd** shows a similar workflow for data with a spike-in control. (Dark blue on figure).
 
 
-![Dm Workflow](/images/brundle_workflow_dm.png?raw=true =800x)
+![Dm Workflow](/images/brundle_workflow_dm.png?raw=true)
 
 **Preprocessing** contains examples of how to preprocess the samples. This includes
 the pipleline to align reads a merged human-drosophila genome. Both examples
