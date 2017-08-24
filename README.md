@@ -1,6 +1,11 @@
 # Brundle_Example
 
-Two example workflows to demonstrated how to normalise ChIP-seq data using the [Brundle R-package](https://github.com/andrewholding/Brundle).
+This hub comtains two example workflows to demonstrated how to normalise ChIP-seq data using the [Brundle R-package](https://github.com/andrewholding/Brundle). Before trying these examples you should first familiarise yourself with [DiffBind](https://bioconductor.org/packages/release/bioc/html/DiffBind.html)
+and it's own examples as it form the basis of the analysis.
+
+These examples are also avalible in as a Docker container from Docker Hub https://hub.docker.com/r/andrewholding/brundle/, the container contains all the packages preinstalled and he tools needed for the preprocessing workflow.
+
+## Contents
 
 **ctcfExample.Rmd** provides a complete workflow using data that was 
 generated with an internal CTCF based control. (Bright pink on figure).
@@ -17,8 +22,26 @@ the pipleline to align reads to merged human-drosophila genome and how to split 
 Both examples include sample input data to test the preprocessing. These are the segments highlighted 
 in dark pink or dark blue on the relivant workflow. 
 
-Brundle can be found at https://github.com/andrewholding/Brundle
-
-Examples_for_package.R was used to provide the R data files (.rda) for the
+Examples_for_package.R is only provided for reference and was used to provide the R data files (.rda) for the
 man page examples in the Brundle package.
+
+## Using Docker Container
+
+Docker provides a reproducible way of executing the same code. In the container for Brundle are all the packages
+and tools needed to run the pipleline are pre-installed. To run the container follow the following instructions:
+
+First install “Docker Toolbox” [https://www.docker.com/products/docker-toolbox], then run the “Docker Quickstart Terminal”.
+
+1)	When the terminal loads note the IP address reported in the terminal.
+2)	Run the container with “docker run –d –p 8787:8787  andrewholding/brundle”
+3)	In a web browser go to the http://<ip-address>:8787. Where <ip-address> is the one we noted earlier.
+4)	This will open a copy of Rstudio running in the container (username: rstudio, password: rstudio).
+5)	Click the ‘Knitr’ button.
+6)	The analysis will run and output the report in a new window (warning: this may be blocked by popup blockers).
+
+The docker container also contains all the tools needed to run the pre-processing. When you started the container you should also get container id (not shown). Using the following command will provide an interactive terminal.
+
+>docker exec -it <container> bash
+
+The scripts you need are in “~/preprocessing”.
 
