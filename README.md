@@ -36,7 +36,7 @@ First install “Docker Toolbox” [https://www.docker.com/products/docker-toolb
 
 
 1)	When the terminal loads note the IP address reported in the terminal.
-2)	Run the container with “docker run –d –p 8787:8787  andrewholding/brundle”
+2)	Run the container with `docker run –d –p 8787:8787  andrewholding/brundle`.
 3)	In a web browser go to the http://<ip-address>:8787. Where <ip-address> is the one we noted earlier.
 4)	This will open a copy of Rstudio running in the container (username: rstudio, password: rstudio).
 5)	Click the ‘Knitr’ button.
@@ -47,4 +47,8 @@ The docker container also contains all the tools needed to run the pre-processin
 `docker exec -it <container> bash`
 
 The scripts you need are in “~/preprocessing”.
+
+To stop the container from the same terminal run
+
+`docker stop <container>`
 
