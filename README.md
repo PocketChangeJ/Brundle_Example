@@ -32,6 +32,9 @@ and tools needed to run the pipleline are pre-installed. To run the container fo
 
 First install “Docker Toolbox” [https://www.docker.com/products/docker-toolbox], then run the “Docker Quickstart Terminal”.
 
+![BrundleDocker](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/BrundleDocker.svg?raw=true)
+
+
 1)	When the terminal loads note the IP address reported in the terminal.
 2)	Run the container with “docker run –d –p 8787:8787  andrewholding/brundle”
 3)	In a web browser go to the http://<ip-address>:8787. Where <ip-address> is the one we noted earlier.
