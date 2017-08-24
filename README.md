@@ -12,9 +12,9 @@ generated with an internal CTCF based control. (Bright pink on figure).
 
 ![Dm Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_dm.svg?raw=true)
 
-**Preprocessing** contains examples of how to preprocess the samples. This includes
-the pipleline to align reads a merged human-drosophila genome. Both examples
-include sample input data to test the preprocessing. These are the segments highlighted 
+The **Preprocessing** folder contains examples of how to preprocess the samples. This includes
+the pipleline to align reads to merged human-drosophila genome and how to split ER and CTCF peaks.
+Both examples include sample input data to test the preprocessing. These are the segments highlighted 
 in dark pink or dark blue on the relivant workflow. 
 
 Brundle can be found at https://github.com/andrewholding/Brundle
