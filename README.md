@@ -1,6 +1,6 @@
 # Brundle_Example
 
-Two example workflows that process datasets using Brundle.
+Two example workflows to demonstrated how to normalise ChIP-seq data using the Brundle R-package.
 
 **ctcfExample.Rmd** provides a complete workflow using data that was 
 generated with an internal CTCF based control. (Bright pink on figure).
