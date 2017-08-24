@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="720px" height="540px" viewBox="0 0 720 540" enable-background="new 0 0 720 540" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="720" height="540"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="720" height="540"/>
+	
+		<rect x="461.916" y="4.325" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	
+		<rect x="461.916" y="4.325" clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2.25" stroke-linejoin="round" stroke-miterlimit="10" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 484.2969 34.3457)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">Brundle </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="510.504" y1="77.028" x2="510.504" y2="55.137"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M510.504,53.153l-4.364,7.48
+		c-0.278,0.477-0.117,1.089,0.36,1.368c0.477,0.278,1.089,0.117,1.367-0.36l2.637-4.519l2.636,4.519
+		c0.278,0.477,0.891,0.638,1.368,0.36l0,0c0.477-0.278,0.638-0.891,0.359-1.368L510.504,53.153z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="619.751" y1="506.229" x2="619.751" y2="468.088"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M619.751,466.104l-4.363,7.48
+		c-0.278,0.477-0.117,1.089,0.359,1.367c0.478,0.278,1.09,0.117,1.368-0.359l2.636-4.52l2.637,4.52
+		c0.278,0.477,0.89,0.638,1.367,0.359l0,0c0.477-0.278,0.639-0.891,0.36-1.367L619.751,466.104z"/>
+	
+		<rect x="10.949" y="147.16" clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="201.956" height="186.874"/>
+	
+		<rect x="228.151" y="168.136" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 248.8608 196.957)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">FastQ</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 278.8101 196.957)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> Files </text>
+	</g>
+	
+		<rect x="228.151" y="259.419" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 248.8608 288.2402)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">FastQ</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 278.8101 288.2402)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> Files </text>
+	</g>
+	
+		<rect x="112.875" y="168.136" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 135.7065 190.3574)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Xenogenic</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 187.6934 190.3574)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 124.7119 203.3574)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">spike-in &amp;H2av  </text>
+	</g>
+	
+		<rect x="112.875" y="259.419" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 127.7788 281.6396)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Control CTCF </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 140.9062 294.6396)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">antibody </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 19.6851 170.2979)" font-family="'Arial-BoldMT'" font-size="14">Experimental </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="210.05" y1="192.557" x2="226.191" y2="192.557"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M228.175,192.557l-7.48,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36s-0.117-1.089,0.36-1.368l4.519-2.636l-4.519-2.636c-0.477-0.278-0.638-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.368-0.36L228.175,192.557z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="210.05" y1="283.84" x2="226.191" y2="283.84"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M228.175,283.84l-7.48,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36c-0.278-0.477-0.117-1.089,0.36-1.367l4.519-2.637l-4.519-2.636
+		c-0.477-0.278-0.638-0.891-0.36-1.368l0,0c0.278-0.477,0.891-0.638,1.368-0.359L228.175,283.84z"/>
+	
+		<rect x="344.139" y="168.136" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 367.9043 196.957)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM Files </text>
+	</g>
+	
+		<rect x="344.139" y="259.419" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 367.9043 288.2402)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM Files </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="326.095" y1="193.588" x2="342.235" y2="193.588"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M344.22,193.588l-7.481,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36s-0.117-1.089,0.36-1.368l4.519-2.636l-4.519-2.636c-0.478-0.278-0.639-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.368-0.36L344.22,193.588z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="326.095" y1="283.84" x2="342.235" y2="283.84"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M344.22,283.84l-7.481,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36c-0.278-0.477-0.117-1.089,0.36-1.367l4.519-2.637l-4.519-2.636
+		c-0.478-0.278-0.639-0.891-0.36-1.368l0,0c0.278-0.477,0.891-0.638,1.368-0.359L344.22,283.84z"/>
+	
+		<rect x="228.151" y="87.922" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 236.9238 116.7432)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Merged genome </text>
+	</g>
+	
+		<rect x="73.846" y="91.905" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="136.973" height="17.292"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 103.7295 104.9512)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">H. Sapiens (</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 164.2563 104.9512)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Hs</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 177.7002 104.9512)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">) </text>
+	</g>
+	
+		<rect x="73.846" y="112.176" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="136.973" height="17.155"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 88.4487 125.1533)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">D. Melanogaster (</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 175.874 125.1533)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Dm</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 192.981 125.1533)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">) </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="210.818" y1="101.413" x2="226.959" y2="101.413"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M228.943,101.413l-7.48,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36s-0.117-1.089,0.36-1.368l4.52-2.636l-4.52-2.636c-0.477-0.278-0.638-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.368-0.36L228.943,101.413z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="210.818" y1="122.336" x2="226.959" y2="122.336"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M228.943,122.336l-7.48,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36c-0.278-0.478-0.117-1.09,0.36-1.368l4.52-2.636l-4.52-2.636
+		c-0.477-0.278-0.638-0.891-0.36-1.368l0,0c0.278-0.477,0.891-0.638,1.368-0.36L228.943,122.336z"/>
+	
+		<rect x="12.485" y="213.156" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 42.6616 235.377)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Sample </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 35.3164 248.377)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">generation </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="94.774" y1="193.588" x2="110.915" y2="193.588"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M112.899,193.588l-7.481,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36s-0.117-1.089,0.36-1.368l4.519-2.636l-4.519-2.636c-0.478-0.278-0.639-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.368-0.36L112.899,193.588z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="94.774" y1="283.84" x2="110.915" y2="283.84"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M112.899,283.84l-7.481,4.364
+		c-0.477,0.278-1.089,0.117-1.368-0.36c-0.278-0.477-0.117-1.089,0.36-1.367l4.519-2.637l-4.519-2.636
+		c-0.478-0.278-0.639-0.891-0.36-1.368l0,0c0.278-0.477,0.891-0.638,1.368-0.359L112.899,283.84z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="94.774" y1="192.982" x2="94.774" y2="215.583"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="94.774" y1="261.392" x2="94.774" y2="283.993"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="332.297" y1="111.625" x2="332.297" y2="192.982"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="332.297" y1="112.176" x2="325.327" y2="112.343"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1.224647e-16 1 -1 1.224647e-16 214.7734 201.9731)" font-family="'ArialMT'" font-size="14">Sequencing </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1.224647e-16 1 -1 1.224647e-16 328.6895 207.8784)" font-family="'ArialMT'" font-size="14">Alignment </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="441.314" y1="192.982" x2="457.455" y2="192.982"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M459.439,192.982l-7.48,4.364
+		c-0.478,0.278-1.09,0.117-1.368-0.36s-0.117-1.089,0.36-1.368l4.52-2.636l-4.52-2.636c-0.478-0.278-0.639-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.368-0.36L459.439,192.982z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="441.314" y1="283.233" x2="457.455" y2="283.233"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M459.439,283.233l-7.48,4.363
+		c-0.478,0.278-1.09,0.117-1.368-0.359c-0.278-0.478-0.117-1.09,0.36-1.368l4.52-2.636l-4.52-2.637
+		c-0.478-0.278-0.639-0.891-0.36-1.367l0,0c0.278-0.478,0.891-0.638,1.368-0.36L459.439,283.233z"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1.224647e-16 1 -1 1.224647e-16 446.2539 203.9541)" font-family="'ArialMT'" font-size="14">Blacklisting </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 142.6753 235.6602)" font-family="'ArialMT'" font-size="11">ChIP</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 166.9312 235.6602)" font-family="'ArialMT'" font-size="11"> + </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 112.6753 248.6602)" font-family="'ArialMT'" font-size="11">Library Preparation </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="332.845" y1="349.619" x2="332.845" y2="283.233"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="332.845" y1="350.17" x2="325.875" y2="350.336"/>
+	
+		<rect x="342.618" y="327.46" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 369.1211 349.6807)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Standard </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 371.2725 362.6807)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Blacklist </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="446.765" y1="349.619" x2="446.765" y2="283.233"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="446.765" y1="350.17" x2="439.794" y2="350.336"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="447.604" y1="111.2" x2="447.604" y2="192.557"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="447.604" y1="111.751" x2="440.634" y2="111.918"/>
+	
+		<rect x="344.195" y="88.572" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 353.2827 117.3926)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Merged blacklist </text>
+	</g>
+	
+		<rect x="459.415" y="168.136" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 483.1816 196.957)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM Files </text>
+	</g>
+	
+		<rect x="459.415" y="258.388" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 483.1816 287.209)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM Files </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="556.591" y1="192.557" x2="572.73" y2="192.557"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M574.716,192.557l-7.481,4.364
+		c-0.477,0.278-1.089,0.117-1.367-0.36s-0.117-1.089,0.36-1.368l4.519-2.636l-4.519-2.636c-0.478-0.278-0.639-0.891-0.36-1.368l0,0
+		c0.278-0.477,0.891-0.638,1.367-0.36L574.716,192.557z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="556.591" y1="282.809" x2="572.73" y2="282.809"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M574.716,282.809l-7.481,4.364
+		c-0.477,0.278-1.089,0.116-1.367-0.36c-0.278-0.478-0.117-1.09,0.36-1.368l4.519-2.636l-4.519-2.636
+		c-0.478-0.278-0.639-0.891-0.36-1.368l0,0c0.278-0.477,0.891-0.639,1.367-0.36L574.716,282.809z"/>
+	
+		<rect x="574.629" y="285.818" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#CC2479" width="97.176" height="21.671"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 600.2275 301.0537)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM files </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1.224647e-16 1 -1 1.224647e-16 561.4199 198.8076)" font-family="'ArialMT'" font-size="14">Peak Calling </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.702" y1="509.179" x2="678.935" y2="273.411"/>
+	
+		<rect x="464.037" y="400.532" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FF3098" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 487.8027 414.5635)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM Files  </text>
+	</g>
+	
+		<rect x="464.037" y="433.671" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FF3098" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 481.0762 447.7021)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">ER BED files </text>
+	</g>
+	
+		<rect x="574.691" y="259.16" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#CC2479" width="97.176" height="21.67"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 600.8984 274.3945)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BED files </text>
+	</g>
+	
+		<rect x="574.567" y="195.054" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="21.67"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 600.166 210.2891)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BAM files </text>
+	</g>
+	
+		<rect x="574.629" y="168.136" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="21.67"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 600.8369 183.3711)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">BED files </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="618.377" y1="410.354" x2="618.377" y2="307.229"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="618.377" y1="410.164" x2="563.197" y2="410.164"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M561.213,410.164l7.48,4.363
+		c0.477,0.278,1.09,0.117,1.367-0.359c0.278-0.478,0.117-1.09-0.359-1.368l-4.52-2.636l4.52-2.637
+		c0.477-0.278,0.638-0.891,0.359-1.367l0,0c-0.277-0.478-0.891-0.639-1.367-0.36L561.213,410.164z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.187" y1="274.183" x2="671.216" y2="274.35"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.75" y1="509.179" x2="671.216" y2="509.179"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.934" y1="444.458" x2="563.197" y2="444.458"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M561.213,444.458l7.48,4.363
+		c0.477,0.278,1.09,0.117,1.367-0.359c0.278-0.478,0.117-1.09-0.359-1.368l-4.52-2.636l4.52-2.637
+		c0.477-0.278,0.638-0.891,0.359-1.367l0,0c-0.277-0.478-0.891-0.639-1.367-0.36L561.213,444.458z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.934" y1="466.079" x2="563.197" y2="466.079"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M561.213,466.079l7.48,4.364
+		c0.477,0.278,1.09,0.117,1.367-0.36c0.278-0.477,0.117-1.089-0.359-1.367l-4.52-2.637l4.52-2.636
+		c0.477-0.278,0.638-0.891,0.359-1.368l0,0c-0.277-0.477-0.891-0.638-1.367-0.359L561.213,466.079z"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 560.7139 398.6572)" font-family="'ArialMT'" font-size="11">No Change </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 631.7822 438.3662)" font-family="'ArialMT'" font-size="11">Subtract </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 598.9434 461.8232)" font-family="'ArialMT'" font-size="11">Intersect </text>
+	</g>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="659.996" cy="465.217" rx="7.605" ry="7.701"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2.25" stroke-linejoin="round" stroke-miterlimit="10" cx="659.996" cy="465.217" rx="7.605" ry="7.701"/>
+	
+		<rect x="647.094" y="466.929" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="24.772" height="9.67"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="659.859" y1="497.734" x2="659.859" y2="446.344"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M659.859,444.359l-4.364,7.48
+		c-0.278,0.477-0.117,1.089,0.36,1.367c0.477,0.278,1.089,0.117,1.367-0.359l2.637-4.52l2.636,4.52
+		c0.278,0.477,0.891,0.638,1.368,0.359l0,0c0.477-0.278,0.638-0.891,0.359-1.367L659.859,444.359z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="689.75" y1="205.725" x2="690.497" y2="72.053"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="677.813" y1="181.154" x2="677.517" y2="96.264"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="678.702" y1="180.699" x2="671.731" y2="180.865"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="689.493" y1="205.327" x2="671.867" y2="205.327"/>
+	
+		<rect x="573.9" y="110.463" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 591.248 124.4941)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Hs</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 604.6914 124.4941)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> BAM files </text>
+	</g>
+	
+		<rect x="573.9" y="86.094" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="19.262"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 590.0264 100.125)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Dm</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 607.1328 100.125)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> BED files </text>
+	</g>
+	
+		<rect x="573.9" y="135.05" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 593.3809 149.0811)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Hs</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 606.8242 149.0811)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> Bed files </text>
+	</g>
+	
+		<rect x="573.9" y="61.706" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 589.417 75.7373)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Dm</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 606.5234 75.7373)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> BAM files </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="677.517" y1="96.547" x2="670.546" y2="96.714"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="690.497" y1="72.053" x2="670.546" y2="72.22"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="679.225" cy="121.686" rx="7.661" ry="7.645"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2.25" stroke-linejoin="round" stroke-miterlimit="10" cx="679.225" cy="121.686" rx="7.661" ry="7.645"/>
+	
+		<rect x="671.076" y="111.201" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="5.624" height="22.534"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="690.497" y1="121.603" x2="670.546" y2="121.77"/>
+	
+		<rect x="459.415" y="66.695" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="80.497"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 486.916 98.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">(</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 490.5791 98.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Dm</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 507.6855 98.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">) Control </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 546.8086 111.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 470.4053 124.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">(</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 474.0684 124.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Hs</text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 487.5117 124.1436)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">) Experiment </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="573.9" y1="95.725" x2="556.601" y2="95.725"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M554.616,95.725l7.481,4.364
+		c0.477,0.278,1.089,0.117,1.367-0.36s0.117-1.089-0.36-1.368l-4.519-2.636l4.519-2.636c0.478-0.278,0.639-0.891,0.36-1.368l0,0
+		c-0.278-0.477-0.891-0.638-1.368-0.36L554.616,95.725z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="573.9" y1="121.603" x2="556.601" y2="121.603"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M554.616,121.603l7.481,4.364
+		c0.477,0.278,1.089,0.117,1.367-0.36s0.117-1.089-0.36-1.368l-4.519-2.636l4.519-2.636c0.478-0.278,0.639-0.891,0.36-1.368l0,0
+		c-0.278-0.477-0.891-0.638-1.368-0.36L554.616,121.603z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="573.9" y1="143.088" x2="566.93" y2="143.255"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="573.277" y1="71.887" x2="566.307" y2="72.053"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="566.93" y1="120.784" x2="566.93" y2="143.255"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="566.307" y1="71.887" x2="566.93" y2="96.714"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1.224647e-16 1 -1 1.224647e-16 695.2812 74.0674)" font-family="'ArialMT'" font-size="14">Separate by genome </text>
+	</g>
+	
+		<rect x="230.237" y="384.551" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FF3098" width="97.176" height="80.496"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 242.4629 415.999)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> (CTCF) Control </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 276.0063 428.999)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11"> </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 239.3906 441.999)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">(ER) Experiment </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="464.037" y1="410.354" x2="327.311" y2="410.354"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M325.327,410.354l7.48,4.363
+		c0.477,0.278,1.089,0.117,1.368-0.359c0.278-0.478,0.117-1.09-0.36-1.368l-4.519-2.636l4.519-2.637
+		c0.477-0.278,0.638-0.891,0.36-1.367l0,0c-0.278-0.478-0.891-0.639-1.368-0.36L325.327,410.354z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="393.938" y1="444.104" x2="328.079" y2="443.4"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M326.095,443.379l7.527-4.284
+		c0.48-0.272,1.091-0.105,1.364,0.375c0.273,0.479,0.105,1.091-0.375,1.363l-4.547,2.588l4.491,2.685
+		c0.474,0.283,0.628,0.897,0.345,1.371l0,0c-0.283,0.475-0.897,0.629-1.372,0.346L326.095,443.379z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="393.938" y1="441.387" x2="393.938" y2="410.371"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M393.938,443.371l4.363-7.48
+		c0.278-0.477,0.117-1.089-0.359-1.367c-0.478-0.278-1.09-0.117-1.368,0.359l-2.636,4.52l-2.637-4.52
+		c-0.277-0.477-0.891-0.638-1.367-0.359l0,0c-0.478,0.278-0.638,0.891-0.36,1.367L393.938,443.371z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="464.806" y1="444.266" x2="393.938" y2="444.266"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="358.492" cy="442.696" rx="7.605" ry="7.701"/>
+	
+		<ellipse clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2.25" stroke-linejoin="round" stroke-miterlimit="10" cx="358.492" cy="442.696" rx="7.605" ry="7.701"/>
+	
+		<rect x="345.589" y="444.803" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="24.773" height="9.67"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="467.582" y1="466.079" x2="357.826" y2="465.047"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="357.826" y1="465.047" x2="357.826" y2="412.345"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M357.826,410.359l-4.364,7.481
+		c-0.278,0.477-0.117,1.089,0.36,1.367s1.089,0.117,1.368-0.359l2.636-4.52l2.636,4.52c0.278,0.477,0.891,0.638,1.367,0.359l0,0
+		c0.478-0.278,0.639-0.891,0.36-1.367L357.826,410.359z"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 465.4854 79.3633)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="12">Sample sheets </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 236.6929 398.1455)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="12">Sample sheets </text>
+	</g>
+	
+		<rect x="115.741" y="400.536" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FF3098" width="97.175" height="48.842"/>
+	
+		<rect x="115.741" y="400.536" clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2.25" stroke-linejoin="round" stroke-miterlimit="10" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 138.1216 430.5576)" fill="#FFFFFF" font-family="'Arial-BoldMT'" font-size="14">Brundle </text>
+	</g>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" x1="230.237" y1="424.799" x2="214.901" y2="424.939"/>
+	<path clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" d="M212.917,424.957l7.521,4.296
+		c0.479,0.273,1.09,0.106,1.364-0.373s0.107-1.09-0.372-1.364l-4.543-2.595l4.495-2.678c0.475-0.282,0.63-0.896,0.347-1.37l0,0
+		c-0.282-0.475-0.896-0.63-1.371-0.348L212.917,424.957z"/>
+	
+		<rect x="574.041" y="484.714" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#CC2479" width="97.175" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 586.4824 500.335)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Union peak file </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 584.0508 513.335)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">of CTCF control </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 602.3857 526.335)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">samples </text>
+	</g>
+	
+		<rect x="464.037" y="456.486" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#FF3098" width="97.176" height="19.263"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 474.0527 470.5176)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">CTCF BED files </text>
+	</g>
+	
+		<rect x="230.237" y="327.46" clip-path="url(#SVGID_2_)" fill-rule="evenodd" clip-rule="evenodd" fill="#B5B5B5" width="97.176" height="48.842"/>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 252.1587 349.6807)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">H. Sapiens </text>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 257.9678 362.6807)" fill="#FFFFFF" font-family="'ArialMT'" font-size="11">Genome </text>
+	</g>
+</g>
+</svg>
