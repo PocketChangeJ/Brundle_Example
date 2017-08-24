@@ -12,10 +12,10 @@ generated with an internal CTCF based control. (Bright pink on figure).
 
 ![CTCF Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_ctcf.svg?raw=true)
 
-**[dmExample.Rmd](https://github.com/andrewholding/Brundle_Example/blob/master/dmExample.Rmd?raw=true)** shows a similar workflow for data with a spike-in control. (Light blue on figure).
+**[dmExample.Rmd](https://github.com/andrewholding/Brundle_Example/blob/master/dmExample.Rmd)** shows a similar workflow for data with a spike-in control. (Light blue on figure).
 
 
-![Dm Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_dm.svg?raw=true)
+![Dm Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_dm.svg)
 
 The **Preprocessing** folder contains examples of how to preprocess the samples. This includes
 the pipleline to align reads to merged human-drosophila genome and how to split ER and CTCF peaks.
