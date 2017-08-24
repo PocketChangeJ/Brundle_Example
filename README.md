@@ -3,7 +3,7 @@
 This hub comtains two example workflows to demonstrated how to normalise ChIP-seq data using the [Brundle R-package](https://github.com/andrewholding/Brundle). Before trying these examples you should first familiarise yourself with [DiffBind](https://bioconductor.org/packages/release/bioc/html/DiffBind.html)
 and it's own examples as it form the basis of the analysis.
 
-These examples are also avalible in as a Docker container from Docker Hub https://hub.docker.com/r/andrewholding/brundle/, the container contains all the packages preinstalled and he tools needed for the preprocessing workflow. Instruction for [running the container are below](https://github.com/andrewholding/Brundle_Example/blob/master/README.md#using-docker-container).
+These examples are also avalible in as a Docker container from [Brundle on Docker Hub](https://hub.docker.com/r/andrewholding/brundle/) , the container contains all the packages preinstalled and he tools needed for the preprocessing workflow. Instruction for [running the container are below](https://github.com/andrewholding/Brundle_Example/blob/master/README.md#using-docker-container).
 
 ## Contents
 
