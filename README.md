@@ -5,12 +5,12 @@ Two example workflows to demonstrated how to normalise ChIP-seq data using the [
 **ctcfExample.Rmd** provides a complete workflow using data that was 
 generated with an internal CTCF based control. (Bright pink on figure).
 
-![CTCF Workflow](/images/workflow_ctcf.svg?raw=true)
+![CTCF Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_ctcf.svg?raw=true)
 
 **dmExample.Rmd** shows a similar workflow for data with a spike-in control. (Light blue on figure).
 
 
-![Dm Workflow](/images/workflow_dm.svg?raw=true)
+![Dm Workflow](https://cdn.rawgit.com/andrewholding/Brundle_Example/master/images/workflow_dm.svg?raw=true)
 
 **Preprocessing** contains examples of how to preprocess the samples. This includes
 the pipleline to align reads a merged human-drosophila genome. Both examples
