@@ -7,7 +7,7 @@ generated with an internal CTCF based control. (Bright pink on figure).
 
 ![CTCF Workflow](/images/brundle_workflow_ctcf.png?raw=true)
 
-**dmExample.Rmd** shows a similar workflow for data with a spike-in control. (Dark blue on figure).
+**dmExample.Rmd** shows a similar workflow for data with a spike-in control. (Light blue on figure).
 
 
 ![Dm Workflow](/images/brundle_workflow_dm.png?raw=true)
@@ -15,7 +15,7 @@ generated with an internal CTCF based control. (Bright pink on figure).
 **Preprocessing** contains examples of how to preprocess the samples. This includes
 the pipleline to align reads a merged human-drosophila genome. Both examples
 include sample input data to test the preprocessing. These are the segments highlighted 
-in dark pink or light blue on the relivant workflow. 
+in dark pink or dark blue on the relivant workflow. 
 
 Brundle can be found at https://github.com/andrewholding/Brundle
 
