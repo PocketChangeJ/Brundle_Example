@@ -45,7 +45,7 @@ dbaControl    <- jg.getDba(jg.controlSampleSheet, bRemoveDuplicates=TRUE)
 
 #Save the data for the examples in the package
 #save(dbaExperiment, file="data/dbaExperiment.rda")
-
+#save(dbaControl, file="data/dbaControl.rda")
 #Convert the DBA into a peakset we can manipulate
 
 ### Example for function jg.dbaGetPeakset
