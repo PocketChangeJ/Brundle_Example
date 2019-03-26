@@ -24,7 +24,7 @@ install.packages("devtools")
 library(devtools)
 
 install_github("AndrewHolding/Brundle")
-install_github("AndrewHolding/BrundleDate")
+install_github("AndrewHolding/BrundleData")
 
 ```
 
